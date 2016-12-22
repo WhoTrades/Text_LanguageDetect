@@ -16,7 +16,7 @@
         "./"
     ],
     "license": "BSD",
-    "name": "pear/text_languagedetect",
+    "name": "whotrades/text_languagedetect",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Text_LanguageDetect",
         "source": "https://github.com/pear/Text_LanguageDetect"
